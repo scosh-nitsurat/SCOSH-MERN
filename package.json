@@ -1,0 +1,20 @@
+{
+  "name": "scosh-mern",
+  "version": "1.0.0",
+  "description": "This is code for SCOSH, SURAT web portal",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scosh-nitsurat/SCOSH-MERN.git"
+  },
+  "author": "MadMaxINDIAN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scosh-nitsurat/SCOSH-MERN/issues"
+  },
+  "homepage": "https://github.com/scosh-nitsurat/SCOSH-MERN#readme"
+}
